@@ -40,7 +40,7 @@ The project uses a relational database with the following schema:
 - Detail
 - Customer
 
-## ERD Overview
+## Database Diagram Overview
 ![ERD Overview](ERD/ERD.pgerd.png)
 
 ## Setup
