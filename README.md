@@ -9,6 +9,7 @@ A private ambulance service management system
 Welcome to Ambulance Management System, this system is designed as a comprehensive solution for efficiently managing private ambulance services. <br>
 It provides a user-friendly interface for both administrators and ambulance staff to manage various aspects of ambulance operations, including dispatching, scheduling, tracking, and reporting. <br>
 As a culmination of learning in the subject 'Principle of Database Systems', this project serves as a testament to the application of database principles in real-world scenarios. Developed as a bonus credit endeavor for the final exam, it represents a synthesis of theoretical knowledge and practical skills acquired throughout the course.
+Leave a star if this repo help you
 
 ### Built with
 <div align="center">
